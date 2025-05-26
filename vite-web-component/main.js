@@ -1,0 +1,1 @@
+import "@arcgis/map-components/components/arcgis-map";

@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@arcgis/core": "^4.32.10"
+    "@arcgis/map-components": "~4.32.0"
   },
   "devDependencies": {
     "vite": "^6.1.1"

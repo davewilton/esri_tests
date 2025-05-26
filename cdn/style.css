@@ -6,7 +6,6 @@
 /* Add CSS styles to make the `html`, `body` and `arcgis-map` elements the full width and height of their parent containers. */
 html,
 body,
-#viewDiv,
 arcgis-map {
   height: 100%;
   width: 100%;
