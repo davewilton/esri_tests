@@ -1,6 +1,6 @@
 # Possible esri bug?
 
-The esri arcgis-map web component when built appears to bundle in and load transformations and geodesic length. These are being bundled and loaded despite not being used. When using CDN they do not get loaded.
+The esri arcgis-map web component when built appears to bundle in and load transformations and geodesic length. These are being bundled and loaded despite not being used. When using CDN they do not get loaded. If I don't use arcgis-components and create the webmap using core the bundle is also much smaller and quicker to load.
 
 I've created the most basic web app with three versions (CDN, Vite with web map and vite with arcgis-map)
 
